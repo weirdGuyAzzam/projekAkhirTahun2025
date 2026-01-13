@@ -4,6 +4,6 @@
 	export { className as class };
 </script>
 
-<h3 class="mb-4 text-2xl font-semibold text-white md:text-3xl {className}">
+<h3 class="mb-4 text-3xl font-semibold text-white md:text-5xl {className}">
 	<slot />
 </h3>
